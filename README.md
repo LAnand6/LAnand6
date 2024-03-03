@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LAnand6
-- 👀 I’m interested in pursuing Computer Science in College, I am currently a high schooler.
+- 👀 I will be pursiung Computer Science at Cornell University staring Fall 2024
 - 🌱 I’m currently learning machine learning
 
 <!---
